@@ -4,6 +4,7 @@ function App() {
     const [state, setState] = useState(0)
 
     const increment = () => setState(prev => prev + 1);
+    const decrement = () => setState(prev => prev - 1);
 
     return (
         <div className="App">
@@ -14,6 +15,8 @@ function App() {
             >
                 incremernt
             </button>
+
+            <button onClick={decrement} >decrement</button>
         </div>
     );
 }
