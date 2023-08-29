@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9df2ad2d-1f59-479b-9753-028b528e61aa" name="Changes" comment="fixed spaces">
-      <change afterPath="$PROJECT_DIR$/src/helpers/division/division.test.js" afterDir="false" />
-    </list>
+    <list default="true" id="9df2ad2d-1f59-479b-9753-028b528e61aa" name="Changes" comment="Added scripts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +27,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2Uf7BoDUJiGbcTWebxvIf2DJvb1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -119,7 +127,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693339612488</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added e2e test">
+      <option name="closed" value="true" />
+      <created>1693339879936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693339879936</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added scripts">
+      <option name="closed" value="true" />
+      <created>1693340121178</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693340121178</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +165,8 @@
     <MESSAGE value="Added actions" />
     <MESSAGE value="Added new actions" />
     <MESSAGE value="fixed spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed spaces" />
+    <MESSAGE value="Added e2e test" />
+    <MESSAGE value="Added scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scripts" />
   </component>
 </project>
